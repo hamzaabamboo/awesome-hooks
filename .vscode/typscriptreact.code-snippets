@@ -1,0 +1,6 @@
+{
+  "Console log with effects": {
+    "prefix": "useLog",
+    "body": ["useEffect(() => console.log(${1:$CLIPBOARD}),[$CLIPBOARD])"]
+  }
+}
